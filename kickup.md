@@ -82,4 +82,11 @@
 
 >入围结果按照赛制排出，显示总成绩（多人赛总成绩为小组内成员成绩之和），点击多人赛制可以查看小组内每个人的成绩
 
-# test
+## 7.其他
+>后台发布赛事时，体检项和保险项为选填，因为有的比赛不需要体检或不需要缴纳保险
+
+![](https://ws3.sinaimg.cn/large/006tNbRwly1fwrjwtqnvuj30km02st8k.jpg)
+
+>选择参赛时间段时，新增标题提示
+
+![](https://ws1.sinaimg.cn/large/006tNbRwly1fwrjyk4c1fj30ku0ia3z6.jpg)
