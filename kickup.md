@@ -90,3 +90,46 @@
 >选择参赛时间段时，新增标题提示
 
 ![](https://ws1.sinaimg.cn/large/006tNbRwly1fwrjyk4c1fj30ku0ia3z6.jpg)
+
+# 11月修改
+## 1.未缴纳保险，扫码时需提示，需缴纳保险才可上机比赛
+![](https://ws3.sinaimg.cn/large/006tNbRwly1fx0reviur5j30km0f2wej.jpg)
+## 2.报名成功页面加缴纳保险按钮
+![](https://ws4.sinaimg.cn/large/006tNbRwly1fx0rfoxy4lj30kk0gk3yn.jpg)
+## 3.保险流程
+> 报名成功后，到比赛开始前，可以去缴纳保险，入口有3处：报名成功页；个人中心底部即将开赛板块处（缴完后不显示）；赛事详情报名详情中（缴完后需显示申请退款和哪家保险公司）。
+
+![](https://ws3.sinaimg.cn/large/006tNbRwly1fx0rnsgf34j30hu0ja0sy.jpg)
+![](https://ws4.sinaimg.cn/large/006tNbRwly1fx0roii1zsj30k80cet9m.jpg)
+![](https://ws1.sinaimg.cn/large/006tNbRwly1fx0rp8zahuj30ky0roaam.jpg)
+
+## 4.分享详情页面去掉分享榜单
+![](https://ws3.sinaimg.cn/large/006tNbRwly1fx0rqn9a6bj30kk0k8dfy.jpg)
+
+## 5.扫码上机页面改字
+![](https://ws3.sinaimg.cn/large/006tNbRwly1fx0rriwsuzj30je0medg7.jpg)
+
+## 6.填写轴距页面改字
+![](https://ws2.sinaimg.cn/large/006tNbRwly1fx0rt6f6qbj30ie0j4dgb.jpg)
+
+## 7.报名详情体检和保险改版
+> 体检和保险项由后台设置是否出现，新增保险缴纳、申请退款和查看退款详情，注意本人和邀请的其他参赛者的区别
+
+![](https://ws1.sinaimg.cn/large/006tNbRwly1fx0slwou2pj30ki05c3yc.jpg)
+![](https://ws4.sinaimg.cn/large/006tNbRwly1fx0rwd1cqrj30ku0943yh.jpg)
+![](https://ws3.sinaimg.cn/large/006tNbRwly1fx0skyesstj30ku062746.jpg)
+
+## 8.个人中心新增退款记录，没上机的情况下保险可退，退款后比赛关闭，一个团队的其他人同样也不可参与比赛，退款入口在报名详情中，见7
+![](https://ws1.sinaimg.cn/large/006tNbRwly1fx0s19tu14j30kg0imwet.jpg)
+
+## 9.分享排名
+> 用户成功报名后，到比赛开始前，可以参与分享活动，统计所获得的关注公众号的次数
+> 筛选项：各个赛场（和首页、战队排名赛场筛选不同的是，这里没有全部赛场）
+> 筛选项：今天和昨天
+> 我的排名处如果今天和昨天我没有参赛，则不显示
+> 去掉之前第一版竞猜中人气王的设定
+
+> 数据来源：以今天为例，统计今天某个赛场下面的所有赛事，从该赛事开始报名开始，截止到该场比赛结束时，参与该场比赛的每个人的分享数据，如果一个人参与了今天同一赛场下的两场赛事，则统计结果需相加，最高分则为人气王
+
+![](https://ws4.sinaimg.cn/large/006tNbRwly1fx0s20bgroj30ku0k6wew.jpg)
+## 10.分享二维码图片改字
